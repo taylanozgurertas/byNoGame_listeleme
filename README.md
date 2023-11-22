@@ -1,16 +1,15 @@
 # bynogame
 
-A new Flutter project.
+TechCareer Code Carnival Flutter Bootcamp, listeleme kullanımına ilişkin tek sayfalık ByNoGame tasarım ödevi.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1700680808](https://github.com/taylanozgurertas/byNoGame_listeleme/assets/92798120/b436d2ef-71a3-4fb1-bce0-383b486bd408)
+![Screenshot_1700680806](https://github.com/taylanozgurertas/byNoGame_listeleme/assets/92798120/972a506d-ef16-4a8f-9a69-116e1617a555)
+![Screenshot_1700680803](https://github.com/taylanozgurertas/byNoGame_listeleme/assets/92798120/5d3b6f4e-ae1e-47b0-8daf-8cef57791c92)
+![Screenshot_1700680797](https://github.com/taylanozgurertas/byNoGame_listeleme/assets/92798120/def8464b-a9a4-475a-9a9e-386b1b09189b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### İcerik
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ListView.builder kullanımına ilişkin örnek. 
